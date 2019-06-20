@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\ij7yxa\desktop\projects\simulation\simulation\source.cpp(15): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\ij7yxa\desktop\projects\simulation\simulation\source.cpp(166): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\ij7yxa\desktop\projects\simulation\simulation\source.cpp(181): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  simulation.vcxproj -> C:\Users\iJ7yxa\Desktop\projects\simulation\Debug\simulation.exe
